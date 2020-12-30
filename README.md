@@ -23,3 +23,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.  
+Клиент для использования trello из командной строки.
+если передано два или меньше параметра, скрипт будет выполнять фунцию read(). Иначе будет выполняться функция create или move, которые ожидают передачи ещё двух параметров — названия создаваемой задачи и названия колонки, в которой эта задача будет создаваться.
