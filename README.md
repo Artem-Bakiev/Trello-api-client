@@ -1,6 +1,5 @@
 Это мой консольный клиент для Trello!  
-
-MIT License  
+  
   
 Copyright (c) 2019 Artem-Bakiev
   
