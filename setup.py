@@ -7,4 +7,3 @@ setuptools.setup(
     description="Клиент для взаимодействия с trello посредством командной строки", long_description=long_description, long_description_content_type="text/markdown", 
     url="https://github.com/basics-api-username/trello_client", packages=setuptools.find_packages(), 
     classifiers=[ "Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License", "Operating System :: OS Independent", ], python_requires='>=3.6',)
-)
